@@ -5,29 +5,28 @@
 </p>
 
 <p align="center">
-💡 Turning Ideas Into Software • 🚀 Building LabDoc AI • 📚 Mastering DSA
+  💡 Turning Ideas Into Software • 🚀 Building LabDoc AI • 📚 Mastering DSA
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=Learning+Spring+Boot;Exploring+Backend+Architecture;Building+Real-World+Projects;Improving+Problem-Solving+Skills;Growing+One+Commit+at+A+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=Learning+Spring+Boot;Exploring+Backend+Architecture;Building+Real-World+Projects;Improving+Problem-Solving+Skills;Growing+One+Commit+at+A+Time" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<a href="mailto:vshivam1729@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:vshivam1729@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/shivam-vishwakarma-932166371">
-<img src="https://img.shields.io/badge/LinkedIn-Shivam_Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/shivam-vishwakarma-932166371">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivam_Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vshivam1729&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vshivam1729&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<!-- ================= END HERO ================= -->
+<!-- ================= END HERO SECTION ================= -->
 
 ---
 
@@ -44,7 +43,7 @@ I enjoy building practical software solutions, exploring new technologies, and c
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/vshivam1729/vshivam1729/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github.com/vshivam1729/vshivam1729/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---
@@ -61,42 +60,49 @@ I enjoy building practical software solutions, exploring new technologies, and c
 
 ### 🧠 LabDoc AI
 
-> AI-powered document platform built to simplify engineering document workflows.
+> AI-powered document formatting platform built for engineering students.
 
 **Tech Stack:**
 Next.js • FastAPI • Python • LibreOffice • Vercel • Render
 
-✨ Highlights
+### ✨ Key Features
 
-* AI-assisted workflow for document processing
-* Convert engineering documents into print-ready PDFs
-* Automated watermark & header generation
-* Mobile-first user experience
-* Achieved 123+ users and 242+ page views within 24 hours
+* Supports all 11 TCET departments
+* Smart department-wise header generation
+* DOCX & PDF processing engine
+* One-click watermark, faculty table & custom footer generation
+* Fully mobile-friendly workflow
+* Print-ready document output
 
-🔗 **Live Demo:**
+### 📈 Impact
+
+* 164+ unique users
+* 365+ page views
+* Built and maintained independently
+
+🔗 **Live Demo**
 https://lab-doc-ai.vercel.app/
 
-🔗 **Repository:**
+🔗 **Repository**
 https://github.com/vshivam1729/LabDoc-AI-Showcase
 
 ---
 
 ### ☕ LearnTrack MVC
 
-> Java MVC-based learner progress dashboard designed using MVC architecture.
+> Java MVC-based learner progress dashboard.
 
 **Tech Stack:**
 Java • JSP • Servlets • JDBC • MySQL
 
-✨ Highlights
+### ✨ Features
 
-* Complete CRUD functionality
-* DAO architecture implementation
-* Secure JDBC queries using PreparedStatement
-* MVC design pattern implementation
+* CRUD operations
+* DAO architecture
+* MVC design pattern
+* Secure JDBC integration
 
-🔗 **Repository:**
+🔗 **Repository**
 https://github.com/vshivam1729/LearnTrack-Java-MVC
 
 ---
@@ -111,7 +117,9 @@ https://github.com/vshivam1729/LearnTrack-Java-MVC
 
 ## 🏆 Achievements
 
-🥇 **1st Rank — Skillful Saturdays DSA Challenge** • 💻 **MumbaiHacks 2025 Participant**
+🥇 **1st Rank — Skillful Saturdays DSA Challenge**
+
+💻 **MumbaiHacks 2025 Participant**
 
 ---
 
