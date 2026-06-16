@@ -74,11 +74,12 @@ Next.js • FastAPI • Python • LibreOffice • Vercel • Render
 * Fully mobile-friendly workflow
 * Print-ready document output
 
-### 📈 Impact
+### 📈 Early Impact (V1 Launch)
 
-* 164+ unique users
-* 365+ page views
-* Built and maintained independently
+- 164+ unique users within 48 hours
+- 365+ page views in the first 2 days
+- Validated a real-world problem faced by engineering students
+- Built and maintained independently
 
 🔗 **Live Demo**
 https://lab-doc-ai.vercel.app/
