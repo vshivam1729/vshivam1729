@@ -82,7 +82,6 @@ I enjoy building practical solutions that solve real-world problems, experimenti
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -90,3 +89,50 @@ I enjoy building practical solutions that solve real-world problems, experimenti
   
   <img width="49%" src="https://streak-stats.demolab.com?user=vshivam1729&theme=transparent&hide_border=true" />
 </p>
+
+
+
+## 🚀 Featured Projects
+
+### 🧠 LabDoc AI
+
+> AI-powered document platform built to simplify engineering document workflows.
+
+**Tech Stack:** Next.js • FastAPI • Python • LibreOffice • Vercel • Render
+
+✨ Highlights:
+
+* Convert engineering documents into print-ready PDFs
+* AI-assisted workflow for faster document processing
+* Automated watermark & header generation
+* Built with a mobile-first experience
+* Achieved 123+ users and 242+ page views within 24 hours
+
+🔗 **Live Demo:** https://lab-doc-ai.vercel.app/
+
+🔗 **GitHub Repository:** https://github.com/vshivam1729/LabDoc-AI-Showcase
+
+---
+
+### ☕ LearnTrack MVC
+
+> Java MVC-based learner progress dashboard designed using industry-standard architecture patterns.
+
+**Tech Stack:** Java • JSP • Servlets • JDBC • MySQL
+
+✨ Highlights:
+
+* Complete CRUD functionality
+* DAO architecture implementation
+* Secure JDBC queries using PreparedStatement
+* MVC design pattern implementation
+* Focused on maintainability and scalability
+
+🔗 **GitHub Repository:** https://github.com/vshivam1729/LearnTrack-Java-MVC
+
+## 🏆 Achievements
+
+🥇 **1st Rank — Skillful Saturdays DSA Challenge**
+
+💻 **MumbaiHacks 2025 Participant**
+
