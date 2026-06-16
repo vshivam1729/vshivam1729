@@ -136,3 +136,9 @@ I enjoy building practical solutions that solve real-world problems, experimenti
 
 💻 **MumbaiHacks 2025 Participant**
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/vshivam1729/vshivam1729/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
