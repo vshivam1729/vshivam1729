@@ -52,7 +52,7 @@ I enjoy building practical software solutions, exploring new technologies, and c
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,spring,fastapi,git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,mysql,fastapi,git,github,vscode,eclipse" />
 </p>
 
 ---
