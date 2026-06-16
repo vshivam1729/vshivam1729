@@ -96,7 +96,7 @@ https://github.com/vshivam1729/LabDoc-AI-Showcase
 **Tech Stack:**
 Java • JSP • Servlets • JDBC • MySQL
 
-### ✨ Features
+### ✨ Key Features
 
 * CRUD operations
 * DAO architecture
