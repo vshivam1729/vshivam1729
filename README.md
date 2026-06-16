@@ -32,109 +32,17 @@
 
 <!-- ================= END HERO ================= -->
 
-## 👨‍💻 About Me
-
-I'm a second-year Computer Engineering student at **Thakur College of Engineering and Technology (TCET)** with a strong interest in software development and problem-solving.
-
-Currently, I'm focused on strengthening my foundation in **Data Structures & Algorithms using Java**, while expanding my skills in **Full Stack Development** and modern backend technologies.
-
-I enjoy building practical solutions that solve real-world problems, experimenting with new technologies, and continuously improving my development skills through projects, hackathons, and hands-on learning.
-
-### 🌱 Current Focus
-
-- 📚 Data Structures & Algorithms in Java
-- ☕ Java Backend Development
-- 🌐 Full Stack Development
-- 🚀 Spring Boot & Scalable Backend Systems
-- 💡 Building Real-World Software Products
-
-### 🎯 Goals
-
-- Become a skilled Full Stack Java Developer
-- Build impactful software products
-- Contribute to open-source projects
-- Secure software engineering internships
-- Grow into a strong problem solver and engineer
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql" />
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vshivam1729&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  
-  <img width="49%" src="https://streak-stats.demolab.com?user=vshivam1729&theme=transparent&hide_border=true" />
-</p>
-
-
-
-## 🚀 Featured Projects
-
-### 🧠 LabDoc AI
-
-> AI-powered document platform built to simplify engineering document workflows.
-
-**Tech Stack:** Next.js • FastAPI • Python • LibreOffice • Vercel • Render
-
-✨ Highlights:
-
-* Convert engineering documents into print-ready PDFs
-* AI-assisted workflow for faster document processing
-* Automated watermark & header generation
-* Built with a mobile-first experience
-* Achieved 123+ users and 242+ page views within 24 hours
-
-🔗 **Live Demo:** https://lab-doc-ai.vercel.app/
-
-🔗 **GitHub Repository:** https://github.com/vshivam1729/LabDoc-AI-Showcase
-
 ---
 
-### ☕ LearnTrack MVC
+## 👨‍💻 About Me
 
-> Java MVC-based learner progress dashboard designed using industry-standard architecture patterns.
+I'm a **2nd Year Comp Engg Student @ TCET** passionate about software development, problem-solving, and building real-world products.
 
-**Tech Stack:** Java • JSP • Servlets • JDBC • MySQL
+Currently strengthening my **DSA + Java** foundation while exploring **Full Stack Development**, **Spring Boot**, and modern backend technologies.
 
-✨ Highlights:
+I enjoy turning ideas into software through projects, hackathons, and continuous learning.
 
-* Complete CRUD functionality
-* DAO architecture implementation
-* Secure JDBC queries using PreparedStatement
-* MVC design pattern implementation
-* Focused on maintainability and scalability
-
-🔗 **GitHub Repository:** https://github.com/vshivam1729/LearnTrack-Java-MVC
-
-## 🏆 Achievements
-
-🥇 **1st Rank — Skillful Saturdays DSA Challenge**
-
-💻 **MumbaiHacks 2025 Participant**
+---
 
 ## 🐍 Contribution Snake
 
@@ -142,3 +50,76 @@ I enjoy building practical solutions that solve real-world problems, experimenti
   <img src="https://github.com/vshivam1729/vshivam1729/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,mysql,spring,fastapi,git,github,vscode,eclipse" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 LabDoc AI
+
+> AI-powered document platform built to simplify engineering document workflows.
+
+**Tech Stack:**
+Next.js • FastAPI • Python • LibreOffice • Vercel • Render
+
+✨ Highlights
+
+* AI-assisted workflow for document processing
+* Convert engineering documents into print-ready PDFs
+* Automated watermark & header generation
+* Mobile-first user experience
+* Achieved 123+ users and 242+ page views within 24 hours
+
+🔗 **Live Demo:**
+https://lab-doc-ai.vercel.app/
+
+🔗 **Repository:**
+https://github.com/vshivam1729/LabDoc-AI-Showcase
+
+---
+
+### ☕ LearnTrack MVC
+
+> Java MVC-based learner progress dashboard designed using MVC architecture.
+
+**Tech Stack:**
+Java • JSP • Servlets • JDBC • MySQL
+
+✨ Highlights
+
+* Complete CRUD functionality
+* DAO architecture implementation
+* Secure JDBC queries using PreparedStatement
+* MVC design pattern implementation
+
+🔗 **Repository:**
+https://github.com/vshivam1729/LearnTrack-Java-MVC
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vshivam1729&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+🥇 **1st Rank — Skillful Saturdays DSA Challenge** • 💻 **MumbaiHacks 2025 Participant**
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vshivam1729&theme=react-dark&hide_border=true&area=true"/>
+</p>
