@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  💡 Turning Ideas Into Software • 🚀 Building LabDoc AI • 📚 Mastering DSA
+  🚀 Building Real-World Software • ☕ Full Stack Java Developer • 📈 Problem Solver
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=Learning+Spring+Boot;Exploring+Backend+Architecture;Building+Real-World+Projects;Improving+Problem-Solving+Skills;Growing+One+Commit+at+A+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=750&height=60&lines=Building+Full+Stack+Applications;Java+%7C+Spring+Boot+%7C+Backend+Development;Solving+Real-World+Problems+Through+Software;Open+to+Software+Engineering+Opportunities;Building+Things+That+People+Actually+Use" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **2nd Year Computer Engineering student at Thakur College of Engineering & Technology (TCET)** passionate about software development, problem-solving, and building products that create real-world impact.
+I'm a **2nd Year Computer Engineering student at Thakur College of Engineering & Technology (TCET)** with a strong interest in backend development, software engineering, and building products that solve real-world problems.
 
-Currently strengthening my **DSA skills in Java** while expanding my expertise in **Full Stack Development, Spring Boot, and backend engineering**.
+Currently strengthening my **DSA skills in Java** while expanding my expertise in **Spring Boot, Full Stack Development, and scalable backend systems**.
 
-I enjoy building practical software solutions, exploring new technologies, and continuously improving through projects, hackathons, and hands-on learning.
+I enjoy transforming ideas into practical software through projects, hackathons, and hands-on development.
 
 ---
 
@@ -51,8 +51,12 @@ I enjoy building practical software solutions, exploring new technologies, and c
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,mysql,fastapi,git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,mysql,spring,fastapi,nextjs,git,github,vscode,eclipse" />
 </p>
+
+### ☁️ Deployment
+
+Vercel • Render
 
 ---
 
@@ -76,10 +80,10 @@ Next.js • FastAPI • Python • LibreOffice • Vercel • Render
 
 ### 📈 Early Impact (V1 Launch)
 
-- 164+ unique users within 48 hours
-- 365+ page views in the first 2 days
-- Validated a real-world problem faced by engineering students
-- Built and maintained independently
+* 164+ unique users within 48 hours
+* 365+ page views in the first 2 days
+* Validated a real-world problem faced by engineering students
+* Built and maintained independently
 
 🔗 **Live Demo**
 https://lab-doc-ai.vercel.app/
@@ -91,17 +95,17 @@ https://github.com/vshivam1729/LabDoc-AI-Showcase
 
 ### ☕ LearnTrack MVC
 
-> Java MVC-based learner progress dashboard.
+> Java MVC-based learner progress dashboard following industry-standard architecture patterns.
 
 **Tech Stack:**
 Java • JSP • Servlets • JDBC • MySQL
 
 ### ✨ Key Features
 
-* CRUD operations
-* DAO architecture
-* MVC design pattern
-* Secure JDBC integration
+* Complete CRUD functionality
+* DAO architecture implementation
+* MVC design pattern implementation
+* Secure JDBC integration using PreparedStatement
 
 🔗 **Repository**
 https://github.com/vshivam1729/LearnTrack-Java-MVC
