@@ -21,9 +21,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Shivam_Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vshivam1729">
-<img src="https://img.shields.io/badge/GitHub-vshivam1729-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </p>
 
 <p align="center">
@@ -36,11 +33,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **2nd Year Comp Engg Student @ TCET** passionate about software development, problem-solving, and building real-world products.
+I'm a **2nd Year Computer Engineering student at Thakur College of Engineering & Technology (TCET)** passionate about software development, problem-solving, and building products that create real-world impact.
 
-Currently strengthening my **DSA + Java** foundation while exploring **Full Stack Development**, **Spring Boot**, and modern backend technologies.
+Currently strengthening my **DSA skills in Java** while expanding my expertise in **Full Stack Development, Spring Boot, and backend engineering**.
 
-I enjoy turning ideas into software through projects, hackathons, and continuous learning.
+I enjoy building practical software solutions, exploring new technologies, and continuously improving through projects, hackathons, and hands-on learning.
 
 ---
 
