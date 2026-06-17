@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Building Real-World Software • ☕ Full Stack Java Developer • 📈 Problem Solver and a good learner
+  🚀 Building Real-World Software • ☕ Full Stack Java Developer • 📈 Problem Solver
 </p>
 
 <p align="center">
