@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Building Real-World Software • ☕ Full Stack Py Developer • 📈 Problem Solver
+  🚀 Building Real-World Software • ☕ Full Stack Java Developer • 📈 Problem Solver
 </p>
 
 <p align="center">
