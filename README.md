@@ -168,11 +168,11 @@ https://github.com/vshivam1729/LearnTrack-Java-MVC
 
 ## 📜 Certifications
 
-🎓 **Career Essentials in Generative AI** — Microsoft
+- 🎓 **Career Essentials in Generative AI** — Microsoft
 
-🎓 **Career Essentials in GitHub Professional Certificate** — GitHub
+- 🎓 **Career Essentials in GitHub Professional Certificate** — GitHub
 
-🎓 **JetBrains Java Foundations Professional Certificate** — JetBrains
+- 🎓 **JetBrains Java Foundations Professional Certificate** — JetBrains
 
 ---
 
