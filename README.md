@@ -16,7 +16,6 @@
   <a href="mailto:vshivam1729@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/shivam-vishwakarma-932166371">
     <img src="https://img.shields.io/badge/LinkedIn-Shivam_Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -69,6 +68,7 @@ LabDoc AI is an AI-powered practical file formatting platform built specifically
 It automatically formats practical files within seconds by generating official department headers, faculty tables, watermarks and custom footers, making documents print-ready instantly.
 
 **Tech Stack:**
+
 Next.js • FastAPI • Python • LibreOffice • Vercel • Render
 
 ### ✨ Key Features
@@ -92,7 +92,40 @@ Next.js • FastAPI • Python • LibreOffice • Vercel • Render
 https://lab-doc-ai.vercel.app
 
 🔗 **Repository**
+
 https://github.com/vshivam1729/LabDoc-AI-Showcase
+
+---
+
+### 💼 PO-to-Invoice AI
+
+> AI-powered document automation platform that intelligently converts Purchase Orders into professional invoices using custom parsing and template generation.
+
+**Tech Stack:**
+
+Next.js • React • TypeScript • Prisma • Tailwind CSS • Docker • CloudConvert
+
+### ✨ Key Features
+
+* Intelligent Purchase Order data extraction
+* Human verification before invoice generation
+* Bring Your Own Template (BYOT) support
+* Dynamic DOCX & PDF invoice generation
+* Custom document intelligence pipeline
+
+### 📈 Highlights
+
+* Automates repetitive invoice creation workflow
+* Supports editable DOCX and print-ready PDF export
+* Built with a custom parsing and template engine
+
+🔗 **Live Demo**
+
+https://po-to-invoice-ai.vercel.app/
+
+🔗 **Repository**
+
+https://github.com/vshivam1729/po-to-invoice-ai
 
 ---
 
@@ -101,6 +134,7 @@ https://github.com/vshivam1729/LabDoc-AI-Showcase
 > Java MVC-based learner progress dashboard following industry-standard architecture patterns.
 
 **Tech Stack:**
+
 Java • JSP • Servlets • JDBC • MySQL
 
 ### ✨ Key Features
@@ -111,6 +145,7 @@ Java • JSP • Servlets • JDBC • MySQL
 * Secure JDBC integration using PreparedStatement
 
 🔗 **Repository**
+
 https://github.com/vshivam1729/LearnTrack-Java-MVC
 
 ---
@@ -127,7 +162,17 @@ https://github.com/vshivam1729/LearnTrack-Java-MVC
 
 🥇 **1st Rank — Skillful Saturdays DSA Challenge**
 
-💻 **MumbaiHacks 2025 Participant**
+🏆 **Qualified for MumbaiHacks 2025 Round 2** (Successfully Cleared Round 1)
+
+---
+
+## 📜 Certifications
+
+🎓 **Career Essentials in Generative AI** — Microsoft
+
+🎓 **Career Essentials in GitHub Professional Certificate** — GitHub
+
+🎓 **JetBrains Java Foundations Professional Certificate** — JetBrains
 
 ---
 
