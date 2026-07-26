@@ -32,7 +32,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **2nd Year Computer Engineering student at Thakur College of Engineering & Technology (TCET)** with a strong interest in backend development, software engineering, and building products that solve real-world problems.
+I'm a **3rd Year Computer Engineering student at Thakur College of Engineering & Technology (TCET)** with a strong interest in backend development, software engineering, and building products that solve real-world problems.
 
 Currently strengthening my **DSA skills in Java** while expanding my expertise in **Spring Boot, Full Stack Development, and scalable backend systems**.
 
@@ -64,7 +64,9 @@ Vercel • Render
 
 ### 🧠 LabDoc AI
 
-> AI-powered document formatting platform built for engineering students.
+LabDoc AI is an AI-powered practical file formatting platform built specifically for **TCET (Thakur College of Engineering & Technology)** students.
+
+It automatically formats practical files within seconds by generating official department headers, faculty tables, watermarks and custom footers, making documents print-ready instantly.
 
 **Tech Stack:**
 Next.js • FastAPI • Python • LibreOffice • Vercel • Render
@@ -85,8 +87,9 @@ Next.js • FastAPI • Python • LibreOffice • Vercel • Render
 * Validated a real-world problem faced by engineering students
 * Built and maintained independently
 
-🔗 **Live Demo**
-https://lab-doc-ai.vercel.app/
+🌐 **Live Website**
+
+https://lab-doc-ai.vercel.app
 
 🔗 **Repository**
 https://github.com/vshivam1729/LabDoc-AI-Showcase
