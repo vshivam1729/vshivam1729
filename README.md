@@ -89,11 +89,11 @@ Next.js • FastAPI • Python • LibreOffice • Vercel • Render
 
 🌐 **Live Website**
 
-https://lab-doc-ai.vercel.app
+[lab-doc-ai.vercel.app](https://lab-doc-ai.vercel.app)
 
 🔗 **Repository**
 
-https://github.com/vshivam1729/LabDoc-AI-Showcase
+[LabDoc-AI-Showcase](https://github.com/vshivam1729/LabDoc-AI-Showcase)
 
 ---
 
@@ -119,13 +119,13 @@ Next.js • React • TypeScript • Prisma • Tailwind CSS • Docker • Clou
 * Supports editable DOCX and print-ready PDF export
 * Built with a custom parsing and template engine
 
-🔗 **Live Demo**
+🌐 **Live Website**
 
-https://po-to-invoice-ai.vercel.app/
+[po-to-invoice-ai.vercel.app](https://po-to-invoice-ai.vercel.app/)
 
 🔗 **Repository**
 
-https://github.com/vshivam1729/po-to-invoice-ai
+[PO-to-Invoice-AI](https://github.com/vshivam1729/po-to-invoice-ai)
 
 ---
 
@@ -146,7 +146,7 @@ Java • JSP • Servlets • JDBC • MySQL
 
 🔗 **Repository**
 
-https://github.com/vshivam1729/LearnTrack-Java-MVC
+[LearnTrack-Java-MVC](https://github.com/vshivam1729/LearnTrack-Java-MVC)
 
 ---
 
