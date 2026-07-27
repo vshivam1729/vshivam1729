@@ -63,7 +63,7 @@ Vercel • Render
 
 ### 🧠 LabDoc AI
 
-LabDoc AI is an AI-powered practical file formatting platform built specifically for **TCET (Thakur College of Engineering & Technology)** students.
+LabDoc AI is an automated practical file formatting platform built specifically for **TCET (Thakur College of Engineering & Technology)** students.
 
 It automatically formats practical files within seconds by generating official department headers, faculty tables, watermarks and custom footers, making documents print-ready instantly.
 
